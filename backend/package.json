@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A Person CRUD with JSON-SERVER",
+  "main": "src/db.json",
+  "scripts": {
+    "start": "json-server --watch src/db.json --port 8000"
+  },
+  "author": "Tahsin Ayman",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
