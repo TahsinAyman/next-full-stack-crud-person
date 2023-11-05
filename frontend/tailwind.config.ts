@@ -42,7 +42,7 @@ const config: Config = {
         pattern: /^warning/
     },
     {
-        pattern: /^info/
+      pattern: /^info/
     }
   ]
 }
